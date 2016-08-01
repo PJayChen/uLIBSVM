@@ -1,5 +1,7 @@
 A modified svm_predict of [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) for microcontroller.
+
 This project will translate trained svm model file into c struct declaration.
+
 Only support for classification.
 
 Prerequisites
